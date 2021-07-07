@@ -3,3 +3,6 @@
 - 🌱 I’m currently learning Javascript and Java
 - 📫 You can reach me on discord yProbably#xxxx
 - 🥅 2021 Goals: Learn to write PB Mobile scripts and contribute to the API
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yProbably&layout=compact)](https://github.com/yProbably/github-readme-stats)
+
