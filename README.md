@@ -2,4 +2,4 @@
 - 👀 I'm currently working on a few scripts for Powbot Mobile
 - 🌱 I’m currently learning Javascript and Java
 - 📫 You can reach me on discord yProbably#xxxx
-- 🥅 2020 Goals: Learn to write PB Mobile scripts and contribute to the API
+- 🥅 2021 Goals: Learn to write PB Mobile scripts and contribute to the API
