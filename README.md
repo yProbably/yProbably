@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yProbably
+- 👀 I'm currently working on a few scripts for Powbot Mobile
+- 🌱 I’m currently learning Javascript and Java
+- 📫 You can reach me on discord yProbably#xxxx
